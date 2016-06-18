@@ -1,7 +1,7 @@
 #!/bin/bash
 
-apt-get -y update
+apt-get update -y
 
-apt-get -y ansible
+apt-get install -y ansible
 
 
