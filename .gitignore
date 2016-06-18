@@ -1,0 +1,15 @@
+#-------------
+# directories
+#-------------
+
+tmp/
+temp/
+node_modules/
+.vagrant/
+
+# -------------
+# files
+# -------------
+
+*.swp
+
